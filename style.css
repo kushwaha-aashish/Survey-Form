@@ -1,0 +1,21 @@
+.outer {
+    margin: 30px;
+    background-color:whitesmoke;
+}
+body {
+    background-color: blue;
+    margin: 10px;
+}
+h2 {
+    text-align: center;
+}
+
+.question {
+    text-align: left;
+}
+
+div > div {
+    margin-left: 20px;
+}
+
+
